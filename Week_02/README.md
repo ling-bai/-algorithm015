@@ -60,9 +60,9 @@ O(n)
 
 49. 字母异位词分组
 
--> 同一题，收藏所有好的解题方法  
+-> 同一题，收藏所有好的解题方法    
 
-
+--- 
 **2. 树、二叉树、二叉搜索树**
 
 Linked List 是特殊化的Tree
@@ -150,9 +150,9 @@ Class TreeNode:
 ```
 
 实战例题：
-94. 二叉树的中序遍历  
+94. 二叉树的中序遍历    
 
-
+--- 
 **3. 堆和二叉堆、图**
 
 堆 Heap 
@@ -254,10 +254,10 @@ def BFS(graph, start, end):
 
 图的高级算法
 1.连通图个数
-2. 拓扑排序（Topological Sorting）
-https://zhuanlan.zhihu.com/p/34871092
-3. 最短路径（Shortest Path）
-https://www.bilibili.com/video/av25829980?from=search&seid=13391343514095937158
-4. 最小生成树（Minimum Spanning Tree）
+2. 拓扑排序（Topological Sorting）  
+https://zhuanlan.zhihu.com/p/34871092  
+3. 最短路径（Shortest Path）  
+https://www.bilibili.com/video/av25829980?from=search&seid=13391343514095937158  
+4. 最小生成树（Minimum Spanning Tree）  
 https://www.bilibili.com/video/av84820276?from=search&seid=17476598104352152051
 
